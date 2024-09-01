@@ -9,10 +9,10 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=opencv,sklearn,tensorflow" />
 
 ### Infrastructure
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=docker,terraform,aws,dynamodb,gcp,firebase,kubernetes,anaconda" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=docker,terraform,aws,dynamodb,gcp,firebase,kubernetes,anaconda,nginx" />
 
 ### OS
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=linux,nginx" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=linux,windows" />
 
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=git,github,gitlab,yarn,webpack" />
