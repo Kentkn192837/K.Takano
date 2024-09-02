@@ -1,3 +1,7 @@
+## Hi, There!👋🐧
+- I am a server-side engineer, capable of writing front-end code, and I can also work with Deep Learning.
+- I love Python, PHP, Java, JavaScript.
+
 ## Skills
 ### Programming Language
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,python,java,php" />
